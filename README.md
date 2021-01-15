@@ -1,7 +1,7 @@
 # Tomato_Clock_OC
-番茄闹
+番茄闹钟
 
-单纯练手的项目之后将添加swift版本，swiftUI版本和flutter版本，html之后再说
+单纯练手的项目之后将添加swift版本，swiftUI版本和flutter版本，html之后再说  
 希望自己能多多动手写代码！
 
 后续工作：
